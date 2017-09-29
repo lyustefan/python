@@ -7,4 +7,4 @@ This repository contains various projects done in Dataquest
 - [Guided Project: Analyzing Thanksgiving Dinner](https://github.com/lyustefan/Python/blob/master/Thanksgiving.ipynb)
 - [Guided Project: Visualizing Earnings Based on College Major](https://github.com/lyustefan/Python/blob/master/college_major.ipynb)
 - [Guided Project: Visualizing Gender Gap in College Majors](https://github.com/lyustefan/Python/blob/master/Gender_Gap.ipynb)
-- [Guided Project: Vivualizing Schools in NYC](https://github.com/lyustefan/Python/blob/master/Schools.ipynb)
+- [Guided Project: Visualizing Schools in NYC](https://github.com/lyustefan/Python/blob/master/Schools.ipynb)
