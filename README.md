@@ -9,4 +9,4 @@ This repository contains various projects done in Dataquest
 - [Guided Project: Visualizing Gender Gap in College Majors](https://github.com/lyustefan/Python/blob/master/Gender_Gap.ipynb)
 - [Guided Project: Visualizing Schools in NYC](https://github.com/lyustefan/Python/blob/master/Schools.ipynb)
 - [Guided Project: Analyzing Star Wars Survey](https://github.com/lyustefan/Python/blob/master/starwars.ipynb)
-- [Guided Project: Analyzing CIA Factbook Using SQL] [https://github.com/lyustefan/Python/blob/master/sql.ipynb]
+- [Guided Project: Analyzing CIA Factbook Using SQL][https://github.com/lyustefan/Python/blob/master/sql.ipynb]
