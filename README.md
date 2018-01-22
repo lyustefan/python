@@ -12,3 +12,5 @@ This repository contains various projects done in Dataquest
 - [Guided Project: Analyzing CIA Factbook Using SQL](https://github.com/lyustefan/Python/blob/master/sql.ipynb)
 - [Guided Project: Using SQLite in Python](https://github.com/lyustefan/Python/blob/master/Guided%20Project-%20Preparing%20data%20for%20SQLite/sqlite.ipynb)
 - [Guided Project: Creating relations in SQLite](https://github.com/lyustefan/Python/blob/master/Guided%20Project-%20Creating%20relations%20in%20SQLite/Creating%20relations%20in%20SQLite.ipynb)
+- [Guided Project: Analyzing Movie Reviews](https://github.com/lyustefan/Python/blob/master/movie_reviews.ipynb)
+
